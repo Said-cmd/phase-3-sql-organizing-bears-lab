@@ -1,0 +1,60 @@
+INSERT INTO bears (
+    name ,
+    age,
+    sex,
+    color,
+    temperament,
+    alive
+)
+
+VALUES
+    (
+    Mr. Chocolate,
+    10,
+    M,
+    Brown,
+    Happy,
+    1
+    ),
+    Rowdy,
+    9,
+    M,
+    Grey,
+    Sad,
+    0
+    ),
+    Tabitha,
+    8,
+    F
+    Red,
+    Funny,
+    1
+    ),
+    Sergeant Brown,
+    6,
+    M,
+    Brown,
+    Mean,
+    0
+    ),
+    Melissa,
+    5,
+    F    
+    Yellow,
+    Caring,
+    1
+    ),
+    Grinch
+    4,
+    M    
+    Blue,
+    Cunning,
+    1
+    ),
+    Wendy
+    3,
+    F,
+    Pink,
+    Strict,
+    1
+    );
